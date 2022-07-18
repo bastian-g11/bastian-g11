@@ -6,32 +6,32 @@
 [![Linkedin: bastian-g11](https://img.shields.io/badge/-bastian-\-g11-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bastian-g11/)](https://www.linkedin.com/in/bastian-g11/)
 [![GitHub bastian-g11](https://img.shields.io/github/followers/bastian-g11?label=follow&style=social)](https://github.com/bastian-g11)
 
+---
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
+- 🔭 I’m planning to create my own notes app
+- 🌱 I’m currently learning about clean architectures
+- 😄 Pronouns: he / him
+- ⚡ Fun fact: Music lover and guitarist at [EÓN](https://www.youtube.com/channel/UCw-Z_Q1lx3heUaNvybtHvzA) 🎧
+
+
 ```javascript
 const bastian = {
-  pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, C#],
   tools: [Salesforce Commerce Cloud, React, Node],
   architecture: ["hexagonal"],
  challenge: "I am doing the #JavaScript30 challenge focused on vanilla JavaScript"
 }
 ```
+
+---
+<a href="https://github.com/bastian-g11">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bastian-g11&theme=dark&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bastian-g11&theme=dark&layout=compact" />
+</a>
+
 ---
 
 ⭐️ From [@bastian-g11](https://github.com/bastian-g11)
 <!--
-**bastian-g11/bastian-g11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
