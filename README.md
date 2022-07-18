@@ -6,7 +6,6 @@
 [![Linkedin: bastian-g11](https://img.shields.io/badge/-bastian-\-g11-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bastian-g11/)](https://www.linkedin.com/in/bastian-g11/)
 [![GitHub bastian-g11](https://img.shields.io/github/followers/bastian-g11?label=follow&style=social)](https://github.com/bastian-g11)
 
----
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
