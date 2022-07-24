@@ -19,8 +19,8 @@
 const bastian = {
   code: [Javascript, Typescript, HTML, CSS, C#],
   tools: [Salesforce Commerce Cloud, React, Node],
-  architecture: ["hexagonal"],
- challenge: "I am doing the #JavaScript30 challenge focused on vanilla JavaScript"
+  architectures: ["hexagonal"],
+  challenge: "I am doing the #JavaScript30 challenge focused on vanilla JavaScript"
 }
 ```
 
