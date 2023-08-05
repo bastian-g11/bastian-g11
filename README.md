@@ -1,6 +1,6 @@
 <h2> Hi, I'm Sebastián! <img src="https://media.giphy.com/media/lOtf1Yt5CxgME/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/6FT3QE3AJMfwJDZBNr/giphy.gif" width="230">
-<p><em>Software Engineering student at <a href="https://www.udea.edu.co/">University of Antioquia</a><img src="https://media.giphy.com/media/MB75OzWrpUMOWfBHg0/giphy.gif" width="30"></br>Front-end Developer Intern at <a href="https://www.endava.com/en/">Endava</a><img src="https://media.giphy.com/media/lRLzrbhmh5pFf4jOga/giphy.gif" width="30"> 
+<p><em>Software Engineering student at <a href="https://www.udea.edu.co/">University of Antioquia</a><img src="https://media.giphy.com/media/MB75OzWrpUMOWfBHg0/giphy.gif" width="30"></br>Back-end Developer<img src="https://media.giphy.com/media/lRLzrbhmh5pFf4jOga/giphy.gif" width="30"> 
 </em></p>
 
 [![Linkedin: bastian-g11](https://img.shields.io/badge/-bastian-\-g11-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bastian-g11/)](https://www.linkedin.com/in/bastian-g11/)
